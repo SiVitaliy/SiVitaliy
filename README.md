@@ -14,4 +14,4 @@
 
 ## 🚀 Мои проекты
 - **[Post REST API](https://github.com/SiVitaliy/post-rest-api)** — Микросервисный блог с JWT аутентификацией, загрузкой картинок, постами и комментариями
-- **[Post Client](https://github.com/SiVitaliy/post-client)** — Веб-клиент для взаимодействия с API
+- **[Post Client](https://github.com/SiVitaliy/post-client)** — Веб-клиент для взаимодействия с API ([Деплой на Render.com](https://post-client.onrender.com/auth/registration))
